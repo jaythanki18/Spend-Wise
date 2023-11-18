@@ -3,3 +3,8 @@
 An App to track all Your expenses
 
 - [You can check its working on ](https://docs.flutter.dev/get-started/codelab)
+
+
+<video controls>
+  <source src="assets/expense-tracker.mp4">
+</video>
